@@ -21,8 +21,13 @@ p:hover{
 }
 .text{
     margin-top:10em;
+    margin-bottom:10em;
     font-family: 'Ubuntu', sans-serif;
     font-weight: bold;
+    display: flexbox;
+    text-align: center;
+}
+.images{
     display: flexbox;
     text-align: center;
 }
