@@ -1,0 +1,28 @@
+body{
+    background-color: pink;
+}
+.navbar {
+    display:flexbox;
+    overflow: hidden;
+    background-color: cyan;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+    height: 15%;
+    justify-content: center;
+    font-size: xxx-large;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+    margin-bottom: 30px;
+    border-radius: 15px;
+  }
+p:hover{
+    color: white;
+}
+.text{
+    margin-top:10em;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    display: flexbox;
+    text-align: center;
+}
